@@ -4,10 +4,10 @@ gradle/
 gradlew.bat
 gradlew
 .settings/
+lint.xml
 .classpath
 .refactor
 .project
 build.gradle
-lint.xml
 proguard-project.txt
 project.properties

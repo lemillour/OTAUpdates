@@ -111,7 +111,7 @@
         android:summary="@string/list_summary"
         android:title="@string/theme" />
 
-    <PreferenceCategory
+    <!--<PreferenceCategory
         android:key="updater_ads_cat"
         android:title="@string/ads_cat" />
 
@@ -133,6 +133,9 @@
         android:key="about_activity_pref"
         android:title="@string/about_about_title"
         android:summary="@string/about_preferences_summary" />
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/aosp
 
 </PreferenceScreen>

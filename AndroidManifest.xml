@@ -20,6 +20,10 @@
     android:versionCode="19"
     android:versionName="@string/app_version" >
     
+    android:versionName="@string/app_version"
+    android:sharedUserId="android.uid.system" >
+
+>>>>>>> upstream/aosp
     <uses-sdk
         android:maxSdkVersion="22"
         android:minSdkVersion="14"
